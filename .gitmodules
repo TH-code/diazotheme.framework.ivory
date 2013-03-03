@@ -1,0 +1,3 @@
+[submodule "diazotheme/framework/ivory/static/ivory"]
+	path = diazotheme/framework/ivory/static/ivory
+	url = git://github.com/kanthvallampati/IVORY.git
